@@ -9,7 +9,7 @@ export default {
         'spin-slow': 'spin 8s linear infinite',
       },
       boxShadow: {
-        glow: '0 0 15px 5px rgba(124, 58, 237, 0.1)',
+        glow: '0 0 15px 5px rgba(0, 0, 0, 0.1)', // Updated for reversed theme
       },
     },
   },

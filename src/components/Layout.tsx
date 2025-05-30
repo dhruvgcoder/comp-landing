@@ -6,10 +6,10 @@ type LayoutProps = {
 
 const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
-    <div className="min-h-screen w-full bg-black text-white">
+    <div className="min-h-screen w-full bg-white text-black">
       {children}
     </div>
   );
-}
+};
 
-export default Layout
+export default Layout;
