@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://www.computersaviour.com/sitemap.xml
+Sitemap: https://computersaviour.com/sitemap.xml
